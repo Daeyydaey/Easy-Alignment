@@ -1,0 +1,2 @@
+# Easy-Alignment
+&lt;div class="w3-container w3-red w3-cell">   &lt;p>Hello W3.CSS Layout.&lt;/p>   &lt;p>Hello W3.CSS Layout.&lt;/p>   &lt;p>Hello W3.CSS Layout.&lt;/p>   &lt;p>Hello W3.CSS Layout.&lt;/p> &lt;/div>  &lt;div class="w3-container w3-green w3-cell w3-cell-middle">   &lt;p>Hello W3.CSS Layout.&lt;/p> &lt;/div>  &lt;div class="w3-container w3-blue w3-cell w3-cell-bottom">   &lt;p>Hello W3.CSS Layout.&lt;/p> &lt;/div>
